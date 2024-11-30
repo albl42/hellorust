@@ -56,7 +56,7 @@ Here are some features and utilities that will be added to the project in the fu
 
 - [x] HelloWorld
 - [x] Command line argument parsing
-- [ ] Terminal I/O
+- [x] Terminal I/O
 - [ ] File I/O
 - [ ] String manipulation
 - [ ] Logging
