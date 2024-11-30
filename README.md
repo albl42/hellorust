@@ -55,7 +55,7 @@ cargo run
 Here are some features and utilities that will be added to the project in the future:
 
 - [x] HelloWorld
-- [ ] Command line argument parsing
+- [x] Command line argument parsing
 - [ ] Terminal I/O
 - [ ] File I/O
 - [ ] String manipulation
